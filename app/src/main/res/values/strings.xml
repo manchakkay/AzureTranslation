@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Azure Translator</string>
+    <string name="button_hint">Перевод</string>
+    <string name="in_hint">Введите текст, который необходимо перевести</string>
+    <string name="out_hint">Нажмите «Перевод», чтобы перевести текст</string>
+    <string name="language_hint">Выберите язык</string>
+</resources>
