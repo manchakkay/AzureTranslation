@@ -9,8 +9,8 @@ import retrofit2.http.Url;
 
 public interface RetrofitAPI {
     String API_URL = "https://api.cognitive.microsofttranslator.com";
-    String key = "af6916d86b864761b4bb48337d4b2d9a";
-    String region = "eastasia";
+    String key = "";
+    String region = "";
     String POST_URL = "/translate?api-version=3.0&to=";
 
     @GET("/languages?api-version=3.0&scope=translation")
